@@ -1,0 +1,45 @@
+body {
+    background-color: lightseagreen;
+}
+.firstBigBox{
+    margin-top: 28px;
+    float: left;
+}
+.linkBox{
+    border-color: rgb(9, 9, 44);
+    border-width: 2px;
+    border-style: solid;
+    border-left-width: 15px;
+    width: 200px;
+    padding-left: 5px;
+    line-height: 5px;
+    margin-top: 5px;
+}
+.secondBigBox{
+    float: left;
+    margin-left: 50px;
+    margin-top: 0px;
+}
+.link {
+    color: white;
+    font-size: 20px;
+    font-weight: normal;
+    text-decoration: none;
+}
+.heading1 {
+    color: rgb(9, 9, 44);
+    font-size: 50px;
+    font-weight: bold;
+    font-style: normal;
+    line-height: 0px;
+    margin-bottom: 45px;
+}
+.Paragraph {
+    color: white;
+    font-size: 20px;
+    height: 15px;
+}
+.image {
+    height: 500px;
+    width: 800px;
+}
